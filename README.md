@@ -10,3 +10,7 @@ Once your are done, save this file.
 
 Test
 sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+
+Pete Sengsourinho
+My favorite song is Taylor Swift's Love Story. I am a fan of the New York Giants
+I want to learn more about coding.
